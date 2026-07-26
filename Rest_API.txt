@@ -1,0 +1,1 @@
+//*[@id="CardInstanceJ4F5gUO0NOrvZ4Ahd7hZew"]/a/div[1]/div/img
